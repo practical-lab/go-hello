@@ -2,3 +2,15 @@
 
 # go-hello
 This is a hello world for go lang.
+
+```
+go run main.go
+```
+
+```
+go build main.go
+```
+
+```
+./main
+```
